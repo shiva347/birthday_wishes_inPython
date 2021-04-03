@@ -14,5 +14,7 @@
   
  * step 4: press enter when codes run in terminal
  
- * if you want to add something new then modifiy/edit bday_art_decoration.py
+ * if you want to add something new then modifiy/edit 
+ 
+    bday_art_decoration.py
 
